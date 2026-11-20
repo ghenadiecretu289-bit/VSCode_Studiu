@@ -10,3 +10,4 @@ Familiarizarea cu utilizarea Git și GitHub.
 - Visual Studio Code
 - Git
 - GitHub
+- Acest proiect demonstrează utilizarea comenzilor Git.
